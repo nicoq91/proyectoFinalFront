@@ -1,0 +1,12 @@
+.contenedorProductos{ 
+    text-align: center;
+    background-color: #1976d2; /*color de navbar  */
+}
+/* .botonDelete{
+    background-color: red;
+} */
+
+h2{
+    margin: 0;
+    padding: 0;
+}
